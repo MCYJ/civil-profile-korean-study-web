@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mcyj.github.io/civil-profile-korean-study-web/sitemap.xml
